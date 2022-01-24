@@ -8,11 +8,15 @@
  - [Stepstone](https://www.stepstone.de/en)
  - [Join](https://join.com/)
  
+---
+ 
  # Preparation for a Job
  
   - [Amazon Software Development Topics](https://www.amazon.jobs/en/landing_pages/software-development-topics)
   - [LinkedIn Common Interview Questions](https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/)
   
+ ---
+ 
  # Coding Interview tools
  
   - [Codeshare](https://codeshare.io/)
