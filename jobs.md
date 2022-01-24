@@ -10,7 +10,7 @@
  
 ---
  
- # Preparation for a Job
+ # Preparation for a Job Interview
  
   - [Amazon Software Development Topics](https://www.amazon.jobs/en/landing_pages/software-development-topics)
   - [LinkedIn Common Interview Questions](https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/)
