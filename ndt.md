@@ -1,6 +1,6 @@
 # Non destructive testing
 
- - [The principl of ultrasound](https://www.echopedia.org/wiki/The_principle_of_ultrasound)
+ - [The principles of ultrasound](https://www.echopedia.org/wiki/The_principle_of_ultrasound)
  - [Wavelet Transform in Machine-Learning](https://ataspinar.com/2018/12/21/a-guide-for-using-the-wavelet-transform-in-machine-learning/)
  - [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
  - [Ultrasonic Pulse-Echo Method](https://wiki.tum.de/display/zfp/Ultrasonic+Pulse-Echo+Method)
