@@ -14,6 +14,8 @@ Some other good reasons to ignore a particular guideline:
 - When applying the guideline would make the code less readable, even for someone who is used to reading code that follows this PEP.
 ```
 
+Autoformatting can make the code base less readable and more difficult to work with.
+
 Autoformatting would remove the need to ask the team and come up with a style that works for the team.
 
 I would heighly recommend to watch this presentation [Beyond PEP 8](https://www.youtube.com/watch?v=wf-BqAjZb8M) from Raymond Hettinger, on the the core python developers.
