@@ -1,6 +1,7 @@
 # automatic formatting of python code
 
 Constistency for consistencies sake is not a good reason to add autoformatting in python.
+
 It is better to focus on writting good code than having consistent formatting of bad code.
 
 `A Foolish Consistency is the Hobgoblin of Little Minds` from [pep-8](https://peps.python.org/pep-0008/#maximum-line-length):
